@@ -10,7 +10,7 @@ on:
       - 'ChannelList/*.list'
       - 'ChannelLogo/*/*.png'
   schedule:
-    - cron: 0 */1 * * *
+    - cron: 0 0 */3 * *
   watch:
     types: [started]
 
