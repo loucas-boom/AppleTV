@@ -54,7 +54,7 @@ jobs:
     
     - name: 获取最新源
       run : |
-        wget https://live.fanmingming.com/tv/m3u/global.m3u -O fanmingming.tmp
+        wget https://live.fanmingming.com/tv/m3u/demo.m3u -O fanmingming.tmp
         wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O aptv.tmp
         wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O yuechan.tmp
         wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u -O gather.tmp
