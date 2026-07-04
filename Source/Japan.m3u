@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz"
+#EXTM3U x-tvg-url="https://material.yang-1989.xyz/epg.xml.gz"
 #EXTM3U
 #EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" group-title="日本",CGNTV Japan
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
@@ -28,3 +28,5 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp@SD" group-title="日本",Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="日本",NHK World-Japan
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
